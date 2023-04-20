@@ -1,10 +1,10 @@
-package ProjectString.com.example.demo;
+package com.example.ulbispring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class UlbispringApplicationTests {
 
 	@Test
 	void contextLoads() {
